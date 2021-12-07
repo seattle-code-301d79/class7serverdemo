@@ -1,0 +1,24 @@
+{
+  "name": "class7serverdemo",
+  "version": "1.0.0",
+  "description": "demo for class 7 on first server ever!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattle-code-301d79/class7serverdemo.git"
+  },
+  "author": "Sara!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattle-code-301d79/class7serverdemo/issues"
+  },
+  "homepage": "https://github.com/seattle-code-301d79/class7serverdemo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
